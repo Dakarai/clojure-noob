@@ -12,3 +12,8 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+.calva/output-window/output.calva-repl
+*.json
+.lsp/sqlite.db
+.clj-kondo/.cache/2021.01.20/lock
+.clj-kondo/.cache/2021.01.21-SNAPSHOT/lock
